@@ -189,7 +189,7 @@
         <option name="BOOKMARKS_ATTRIBUTES">
             <value>
                 <option name="FONT_TYPE" value="1"/>
-                <option name="ERROR_STRIPE_COLOR" value="dbdbdb"/>
+                <option name="ERROR_STRIPE_COLOR" value="ff43a4"/>
             </value>
         </option>
         <option name="BREADCRUMBS_CURRENT">
@@ -317,12 +317,12 @@
         </option>
         <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="95aaef"/>
+                <option name="FOREGROUND" value="8e7cc3"/>
             </value>
         </option>
         <option name="CONSOLE_MAGENTA_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="4f66af"/>
+                <option name="FOREGROUND" value="674ea7"/>
             </value>
         </option>
         <option name="CONSOLE_NORMAL_OUTPUT">
@@ -785,8 +785,8 @@
         </option>
         <option name="GENERIC_SERVER_ERROR_OR_WARNING">
             <value>
-                <option name="EFFECT_COLOR" value="95aaef"/>
-                <option name="ERROR_STRIPE_COLOR" value="95aaef"/>
+                <option name="EFFECT_COLOR" value="ff43a4"/>
+                <option name="ERROR_STRIPE_COLOR" value="ff43a4"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -987,7 +987,7 @@
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="c1e5dd"/>
-                <option name="ERROR_STRIPE_COLOR" value="4d6168"/>
+                <option name="ERROR_STRIPE_COLOR" value="ff43a4"/>
             </value>
         </option>
         <option name="IGNORE.BRACKET">
@@ -1049,7 +1049,7 @@
         <option name="INFO_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="8d95db"/>
-                <option name="ERROR_STRIPE_COLOR" value="8d95db"/>
+                <option name="ERROR_STRIPE_COLOR" value="ff43a4"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -3467,7 +3467,7 @@
             <value>
                 <option name="FOREGROUND" value="fff2cc"/>
                 <option name="BACKGROUND" value="384d48"/>
-                <option name="ERROR_STRIPE_COLOR" value="fff2cc"/>
+                <option name="ERROR_STRIPE_COLOR" value="cc0000"/>
             </value>
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -3549,14 +3549,14 @@
         <option name="WARNING_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="95aaef"/>
-                <option name="ERROR_STRIPE_COLOR" value="95aaef"/>
+                <option name="ERROR_STRIPE_COLOR" value="cc0000"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="c1e5dd"/>
-                <option name="ERROR_STRIPE_COLOR" value="4d6168"/>
+                <option name="ERROR_STRIPE_COLOR" value="ff43a4"/>
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

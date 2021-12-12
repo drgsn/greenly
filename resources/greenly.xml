@@ -402,7 +402,6 @@
         </option>
         <option name="CSS.HASH">
             <value>
-<!--                TODO: this should probably be changed -->
                 <option name="FOREGROUND" value="fd9353"/>
             </value>
         </option>

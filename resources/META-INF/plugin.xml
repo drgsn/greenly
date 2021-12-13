@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.drgos.greenly</id>
     <name>Greenly Theme</name>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <vendor url="https://github.com/drgsn">DrGos</vendor>
 
     <description><![CDATA[
@@ -12,6 +12,7 @@
       <h3>0.1.0</h3>
             <ul>
                 <li>Initial release. Basic theme functionality.</li>
+                <li>Fixed textbox selected text visibility.</li>
             </ul>
     ]]>
     </change-notes>

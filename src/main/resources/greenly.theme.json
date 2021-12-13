@@ -197,7 +197,7 @@
             "underlinedTabForeground": "greenly900"
         },
         "FileColor": {
-            "Blue":  "floralBlueTransparent",
+            "Blue": "floralBlueTransparent",
             "Green": "floralGreenTransparent",
             "Orange": "floralDarkBlueTransparent",
             "Rose": "floralRedTransparent",
@@ -222,8 +222,7 @@
             "lineSeparatorColor": "greenly200"
         },
         "HelpTooltip": {
-            "borderColor": "greenly200",
-            "infoForeground": "greenly800"
+            "borderColor": "greenly200"
         },
         "InformationHint": {
             "borderColor": "greenly200"
@@ -427,7 +426,7 @@
             "selectionBackground": "greenly500",
             "selectionForeground": "greenly900"
         },
-        "ScrollBar":  {
+        "ScrollBar": {
             "trackColor": "greenly200",
             "thumbColor": "greenly500",
             "thumbBorderColor": "greenly500",

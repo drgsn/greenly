@@ -1,0 +1,58 @@
+plugins {
+    id("idea")
+    id("java")
+    id "org.jetbrains.intellij" version "1.3.0"
+}
+
+group 'com.drgos.greenly'
+version '0.1.1'
+
+repositories {
+    mavenCentral()
+}
+
+// See https://github.com/JetBrains/gradle-intellij-plugin/
+intellij {
+    pluginName = "Greenly theme"
+    type = "IC"
+    version = "2021.2"
+    configureDefaultDependencies = true
+    updateSinceUntilBuild = true
+    downloadSources = true
+}
+
+idea {
+    project {
+        settings {
+            copyright {
+                useDefault = "MIT"
+                profiles {
+                    MIT {
+                        notice = file("LICENSE").readLines().join("\n")
+                    }
+                }
+            }
+        }
+    }
+}
+
+publishPlugin {
+    setToken(System.getenv("INTELLIJ_TOKEN"))
+}
+
+patchPluginXml {
+    sinceBuild = "191"
+    pluginXmlFiles = [new File("src/main/resources/META-INF/plugin.xml"), new File("src/main/resources/greenly.xml")]
+    changeNotes = """
+        <h3>0.1.0</h3>
+        <ul>
+            <li>Initial release. Basic theme functionality.</li>
+        </ul>
+
+        <h3>0.1.1</h3>
+        <ul>
+            <li>Fixed textbox selected text visibility.</li>
+        </ul>
+    """
+}
+

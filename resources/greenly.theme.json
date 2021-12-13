@@ -42,7 +42,7 @@
             "inactiveBackground": "greenly100",
             "inactiveForeground": "greenly800",
             "infoForeground": "greenly800",
-            "selectionBackground": "greenly500",
+            "selectionBackground": "greenly600",
             "selectionBackgroundInactive": "greenly500",
             "selectionForeground": "greenly900",
             "selectionInactiveBackground": "greenly500",
@@ -96,7 +96,7 @@
             "disabledForeground": "greenly600",
             "foreground": "greenly900",
             "selectionBackground": "greenly500",
-            "selectionForeground": "floralPurple"
+            "selectionForeground": "greenly900"
         },
         "ColorChooser": {
             "background": "greenly200",
@@ -119,7 +119,7 @@
             "modifiedItemForeground": "floralPurple",
             "nonEditableBackground": "greenly300",
             "selectionBackground": "greenly200",
-            "selectionForeground": "floralPurple"
+            "selectionForeground": "greenly900"
         },
         "ComboPopup": {
             "border": "greenly200"
@@ -172,7 +172,7 @@
         },
         "DragAndDrop": {
             "areaBackground": "greenly200",
-            "areaBorderColor": "greenly200",
+            "borderColor": "greenly200",
             "areaForeground": "greenly900"
         },
         "Editor": {
@@ -187,7 +187,7 @@
             "inactiveBackground": "greenly200",
             "inactiveForeground": "greenly600",
             "selectionBackground": "greenly500",
-            "selectionForeground": "floralPurple"
+            "selectionForeground": "greenly900"
         },
         "EditorTabs": {
             "borderColor": "greenly400",
@@ -210,7 +210,7 @@
             "foreground": "greenly900",
             "inactiveBackground": "greenly500",
             "inactiveForeground": "greenly600",
-            "selectionForeground": "floralPurple",
+            "selectionForeground": "greenly900",
             "selectionBackground": "greenly500"
         },
         "Group": {
@@ -250,7 +250,7 @@
             "background": "greenly200",
             "foreground": "greenly900",
             "selectionBackground": "greenly300",
-            "selectionForeground": "floralPurple",
+            "selectionForeground": "greenly900",
             "selectionInactiveBackground": "greenly300",
             "selectionInactiveForeground": "floralPurple"
         },
@@ -267,7 +267,7 @@
             "disabledForeground": "greenly600",
             "foreground": "greenly900",
             "separatorColor": "greenly200",
-            "selectionForeground": "floralPurple"
+            "selectionForeground": "greenly900"
         },
         "MenuBar": {
             "borderColor": "greenly200",
@@ -276,7 +276,7 @@
             "foreground": "greenly900",
             "highlight": "greenly200",
             "selectionBackground": "greenly500",
-            "selectionForeground": "floralPurple",
+            "selectionForeground": "greenly900",
             "shadow": "greenly100"
         },
         "MenuItem": {
@@ -286,7 +286,7 @@
             "disabledForeground": "greenly600",
             "foreground": "greenly900",
             "selectionBackground": "greenly500",
-            "selectionForeground": "floralPurple"
+            "selectionForeground": "greenly900"
         },
         "NavBar": {
             "borderColor": "greenly400"
@@ -337,7 +337,7 @@
             "foreground": "greenly900",
             "inactiveForeground": "greenly600",
             "selectionBackground": "greenly600",
-            "selectionForeground": "floralPurple"
+            "selectionForeground": "greenly900"
         },
         "Plugins": {
             "background": "greenly200",
@@ -425,7 +425,7 @@
             "disabledForeground": "greenly600",
             "foreground": "greenly900",
             "selectionBackground": "greenly500",
-            "selectionForeground": "floralPurple"
+            "selectionForeground": "greenly900"
         },
         "ScrollBar":  {
             "trackColor": "greenly200",
@@ -477,7 +477,7 @@
                 "infoForeground": "greenly800"
             },
             "Tab": {
-                "selectedForeground": "floralPurple",
+                "selectedForeground": "greenly900",
                 "selectedBackground": "greenly600"
             }
         },
@@ -543,7 +543,7 @@
             "lightSelectionInactiveForeground": "greenly900",
             "lightSelectionInactiveBackground": "greenly300",
             "selectionBackground": "greenly300",
-            "selectionForeground": "floralPurple",
+            "selectionForeground": "greenly900",
             "selectionInactiveBackground": "greenly300",
             "selectionInactiveForeground": "greenly900",
             "sortIconColor": "greenly900",
@@ -564,7 +564,7 @@
             "foreground": "greenly900",
             "inactiveForeground": "greenly600",
             "selectionBackground": "greenly600",
-            "selectionForeground": "floralPurple"
+            "selectionForeground": "greenly900"
         },
         "TextField": {
             "background": "greenly300",
@@ -572,7 +572,7 @@
             "foreground": "greenly900",
             "inactiveForeground": "greenly600",
             "selectionBackground": "greenly600",
-            "selectionForeground": "floralPurple"
+            "selectionForeground": "greenly900"
         },
         "TextPane": {
             "background": "greenly300",
@@ -580,7 +580,7 @@
             "foreground": "greenly900",
             "inactiveForeground": "greenly600",
             "selectionBackground": "greenly600",
-            "selectionForeground": "floralPurple"
+            "selectionForeground": "greenly900"
         },
         "TitlePane": {
             "inactiveBackground": "greenly200",
